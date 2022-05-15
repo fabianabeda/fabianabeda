@@ -26,5 +26,4 @@ Estou fazendo uma transição de carreira profissional e comecei a estudar Tecno
   
 </div>
   
-## Links úteis
-[Sintaxe Básica Markedown](https://www.markdownguide.org/getting-started/)
+
