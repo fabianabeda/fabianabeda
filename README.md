@@ -1,6 +1,6 @@
-#  Olá, sou a Fabiana Beda!! 👋
+#  Olá, 👋 sou Fabiana Beda.
 
-Estou fazendo uma transição de carreira profissional e estou cursando Tecnologia em Sistemas para Internet - IFPB. Tutora e Orientadora de TCC de Direito na Faculdade UnYLeYa.
+Estou fazendo uma transição de carreira profissional e atualmente estou cursando Tecnologia em Sistemas para Internet - IFPB. Tutora e Orientadora de TCC de Direito na Faculdade UnYLeYa.
 
 <div align="center">
   <a href="https://github.com/fabianabeda">
