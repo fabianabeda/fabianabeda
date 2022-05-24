@@ -17,7 +17,7 @@ Estou fazendo transição de carreira profissional e atualmente curso Tecnologia
   <img align="center" alt="faby-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-## Se você quiser entrar em contato comigo, aqui está minhas principais mídias!: ⤵️
+## Se você quiser entrar em contato comigo, aqui estão as minhas principais mídias!: ⤵️
 
 <div> 
   <a href="https://instagram.com/fabiana.beda" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
