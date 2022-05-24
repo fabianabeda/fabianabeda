@@ -17,11 +17,14 @@ Estou fazendo transição de carreira profissional e atualmente curso Tecnologia
   <img align="center" alt="faby-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
+## Se você quiser entrar em contato comigo, aqui está minhas principais mídias!: ⤵️
+
 <div> 
   <a href="https://instagram.com/fabiana.beda" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href ="mailto:fabiana.beda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fabiana-oliveira-624240138" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+
+#
 </div>
 <div align="center">
   <a href="https://github.com/fabianabeda">
