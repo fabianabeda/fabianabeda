@@ -3,8 +3,7 @@
 </div>
   <img align="right" alt="faby-img" height="200" width="300"src="https://cdn.discordapp.com/attachments/978649497561362503/978649573079801857/shutterstock_1122339353.jpg"
 </div>
-                                                               
-Estou fazendo transição de carreira profissional e atualmente curso Tecnologia em Sistemas para Internet - IFPB. Sou Tutora e Orientadora de TCC no curso de Direito da Faculdade UnYLeYa.
+                                                          
 
 
  ## Minhas Skills
