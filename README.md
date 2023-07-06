@@ -1,12 +1,11 @@
-#  Olá, 👋 sou Fabiana Beda.
+### Hi👋. My name is Fabiana Beda.
 
 </div>
   <img align="right" alt="faby-img" height="200" width="300"src="https://cdn.discordapp.com/attachments/978649497561362503/978649573079801857/shutterstock_1122339353.jpg"
 </div>
-                                                          
+                                                        
 
-
- ## Minhas Skills
+ ## Technologies: ⤵️
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -19,7 +18,7 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-## Mídias: ⤵️
+## Contacts: ⤵️
 
 <div> 
   <a href="https://instagram.com/fabiana.beda" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
